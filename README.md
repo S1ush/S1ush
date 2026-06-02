@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 <!-- Dynamic header -->
@@ -83,7 +82,11 @@ An AI-powered tool that analyzes GitHub repositories and auto-generates structur
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=S1ush&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S1ush/S1ush/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S1ush/S1ush/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/S1ush/S1ush/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -116,17 +119,3 @@ I'm actively looking for **full-stack / platform engineering roles** in the US. 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=100&section=footer" />
 
 </div>
-<!--
-**S1ush/S1ush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
